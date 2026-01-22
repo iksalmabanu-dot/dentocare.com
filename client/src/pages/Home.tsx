@@ -20,6 +20,7 @@ import {
 import { motion } from "framer-motion";
 
 import clinicHeroImg from "@assets/WhatsApp_Image_2026-01-22_at_8.04.43_PM_1769109652425.jpeg";
+import aboutClinicImg from "@assets/WhatsApp_Image_2026-01-22_at_8.33.36_PM_1769109806054.jpeg";
 
 export default function Home() {
   const services = [
@@ -73,7 +74,7 @@ export default function Home() {
               transition={{ duration: 0.8 }}
             >
               <span className="inline-block py-1 px-3 rounded-full bg-primary/10 text-primary font-bold text-sm mb-6">
-                Welcome to Dent-O-Care
+                4.9 ⭐ rating (200+ reviews)
               </span>
               <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold font-display text-gray-900 leading-[1.1] mb-6">
                 Your Smile, <br />
@@ -147,12 +148,8 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div className="relative order-2 md:order-1">
               <div className="absolute -inset-4 bg-secondary rounded-3xl -z-10 rotate-3" />
-               {/* 
-                  Unsplash image for clinic interior/clean medical equipment.
-               */}
-               {/* modern dental clinic interior */}
               <img 
-                src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=2053&auto=format&fit=crop" 
+                src={aboutClinicImg} 
                 alt="Modern Clinic Interior" 
                 className="rounded-2xl shadow-xl w-full object-cover h-[400px]"
               />
