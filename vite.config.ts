@@ -1,10 +1,9 @@
-import { defineConfig } from “vite”;
-import react from “@vitejs/plugin-react”;
-
 export default defineConfig({
+  root: “client”,
   base: “/dentocare/“,
   plugins: [react()],
   build: {
-    outDir: “dist”,
+    outDir: “../dist”,
+    emptyOutDir: true,
   },
 });
