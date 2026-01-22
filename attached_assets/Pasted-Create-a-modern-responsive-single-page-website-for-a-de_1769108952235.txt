@@ -1,0 +1,126 @@
+Create a modern, responsive, single-page website for a dental clinic named “DENT-O-CARE Advanced Multispeciality Dental Clinic” located in Bellandur, Bengaluru.
+
+Tech Requirements
+
+Use HTML, CSS, and JavaScript (or React if preferred)
+
+Clean, modern UI with medical + premium dental aesthetics
+
+Smooth scrolling and subtle animations
+
+Mobile-first, fully responsive
+
+Use Google Fonts and modern icon libraries
+
+One single page only (no routing)
+
+Design Style
+
+White, light blue, teal, and soft gray color palette
+
+Rounded cards, soft shadows, modern layout
+
+Professional but friendly look
+
+High-quality dental / healthcare stock images
+
+Page Sections (in this order)
+
+1. Hero Section
+
+Big headline:
+“Your Smile, Our Priority”
+
+Sub-headline:
+Advanced Multispeciality Dental Care in Bellandur
+
+CTA buttons:
+
+“Book Appointment”
+
+“Call Now”
+
+2. About Clinic
+
+Short description about Dent-O-Care
+
+Mention:
+
+Women-owned clinic
+
+LGBTQ+ friendly
+
+4.9 ⭐ rating with 200+ reviews
+
+Advanced, hygienic, patient-focused care
+
+3. Services Section (Cards/Grid)
+Include icons and short descriptions for:
+
+Dental Implants
+
+Root Canal Treatment (RCT)
+
+Teeth Cleaning & Scaling
+
+Tooth Extractions
+
+Orthodontics (Braces & Aligners)
+
+Cosmetic Dentistry
+
+4. Why Choose Us
+
+Experienced doctors
+
+Modern equipment
+
+Pain-free procedures
+
+Affordable pricing
+
+Hygienic & safe environment
+
+5. Clinic Details
+
+Address:
+SHOP NO:3, FIRST FLOOR, SRI VEERANJANEYA COMPLEX,
+78/5 Bellandur Main Rd, Bengaluru – 560103
+
+Phone: 096636 61131
+
+Timings: Open daily, closes at 9 PM
+
+6. Map Section
+
+Embedded Google Map for Bellandur location
+
+7. Call to Action
+
+“Book Your Appointment Today”
+
+Buttons:
+
+Book Appointment (link placeholder)
+
+Call Clinic
+
+8. Footer
+
+Clinic name
+
+Social media icon placeholders
+
+© Dent-O-Care Dental Clinic
+
+Extra Features
+
+Smooth scroll navigation
+
+Sticky top navbar
+
+Hover effects on service cards
+
+Simple appointment button (no backend required)
+
+Make the website look premium, trustworthy, and modern, suitable for a top-rated dental clinic in Bengaluru.DENT-O-CARE MULTISPECIALITY DENTAL CLINIC,BELLANDUR|DENTAL IMPLANT|RCT|TEETH CLEANING AND EXTRACTIONS|BEST DENTAL HOSPITAL ಡೆಂಟ್-ಓ-ಕೇರ್ ಅಡ್ವಾನ್ಸ್ಡ್ ಮಲ್ಟಿಸ್ಪೆಷಾಲಿಟಿ ಡೆಂಟಲ್ ಕ್ಲಿನಿಕ್-(ಬೆಲ್ಲಂದೂರ್)&ಸೆಂಟರ್ ಫಾರ್ ಆರ್ಥೊಡಾಂಟಿಕ್ಸ್ ಆಂಡ್ ಇಂಪ್ಲಾಂಟ್ 4.9 (208) Dental clinic· Overview Reviews About  Directions  Save  Nearby  Send to phone  Share  SHOP NO:3,FIRST FLOOR, SRI VEERANJANEYA COMPLEX, 78/5, Bellandur Main Rd, above MRP SHOP, opposite to 8th Cross Road, Bellandur, Bengaluru, Karnataka 560103   Open · Closes 9 pm See more hours   click4appointment.com   dentocareclinic.com    096636 61131    WMHG+HH Bengaluru, Karnataka   LGBTQ+ friendly Identifies as women-owned  Your Maps activity 
