@@ -19,6 +19,8 @@ import {
 } from "lucide-react";
 import { motion } from "framer-motion";
 
+import clinicHeroImg from "@assets/WhatsApp_Image_2026-01-22_at_8.04.43_PM_1769109652425.jpeg";
+
 export default function Home() {
   const services = [
     {
@@ -115,14 +117,9 @@ export default function Home() {
               className="relative"
             >
               <div className="relative rounded-[2rem] overflow-hidden shadow-2xl border-4 border-white">
-                 {/* 
-                    Unsplash image for dental care/smile.
-                    Keywords: Dental, Smile, Doctor, Happy Patient
-                 */}
-                 {/* female dentist smiling with patient */}
                 <img 
-                  src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=2068&auto=format&fit=crop" 
-                  alt="Friendly dentist treating patient" 
+                  src={clinicHeroImg} 
+                  alt="Modern Dent-O-Care Clinic Interior" 
                   className="w-full h-[500px] object-cover"
                 />
                 
